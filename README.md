@@ -1,5 +1,5 @@
 # Running Azurite (Blob Storage) in Docker
-Souce: https://hub.docker.com/_/microsoft-azure-storage-azurite
+Source: https://hub.docker.com/_/microsoft-azure-storage-azurite
 
 
 ### Quick Deploy
